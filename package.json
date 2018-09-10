@@ -1,0 +1,19 @@
+{
+		"name": "theme-app",
+		"displayName": "GitHub Purple Native Theme",
+		"description": "Created a topic for VSCode, experience was interesting."
+		"version": "1.1.0",
+		"publisher": "custapp",
+		"icon": "icon-purple.png",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/custapp/theme-app"	
+		},
+		"engines": {
+			"vscode": "^1.22.0"
+		},
+		"categories": [
+			"Themes"
+		],
+		
+}
