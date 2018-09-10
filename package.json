@@ -9,11 +9,13 @@
 			"type": "git",
 			"url": "https://github.com/custapp/theme-app"	
 		},
+		"bugs": {
+			"url": "https://github.com/custapp/theme-app/issues"
+		},
 		"engines": {
 			"vscode": "^1.22.0"
 		},
 		"categories": [
 			"Themes"
 		],
-		
 }
