@@ -1,6 +1,6 @@
 {
 		"name": "theme-app",
-		"displayName": "GitHub Purple Native Theme",
+		"displayName": "GitHub Purple native claws theme",
 		"description": "Created a topic for VSCode, experience was interesting."
 		"version": "1.1.0",
 		"publisher": "custapp",
@@ -18,5 +18,5 @@
 		"categories": [
 			"Themes"
 		],
-		
+
 }
