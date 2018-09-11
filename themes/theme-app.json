@@ -1,0 +1,27 @@
+{
+	"type": "dark",
+	"colors": {
+		"activityBar.background": "#19181a",
+		"activityBar.foreground": "#ffffff",
+		"button.background": "#7d3eeb",
+		"editor.background": "#20252a",
+		"editor.foreground": "#d4d4d4",
+		"editorGroupHeader.tabsBackground": "#252526",
+		"editorLineNumber.foreground": "#ffffff",
+		"editor.lineHighlightBackground": "#242e32",
+		"editor.selectionBackground": "#0c69d8",
+		"editorGutter.background": "#161a1d",
+		"focusBorder": "#24292e",
+		
+		"tab.border": "#20252a",
+		"tab.activeBorder": "#f1394c",
+		"tab.activeBackground": "#20252a",
+		"tab.inactiveBackground": "#252526",
+		"tab.inactiveForeground": "#a3a3a3",
+
+		"list.hoverBackground": "#2a2d2e",
+		"list.activeSelectionBackground": "#2a2d2e",
+		"sideBarSectionHeader.background": "#464c50",
+		"sideBar.background": "#373f44",
+		"scrollbar.shadow": "#00000000"
+	},
