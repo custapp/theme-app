@@ -22,7 +22,7 @@
             {
                 "label": "Purple Claws",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Purple Claws-color-theme.json"
+                "path": "./themes/theme-app.json"
             }
         ]
     }
