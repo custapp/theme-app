@@ -1,7 +1,7 @@
 {
     "name": "theme-app",
-    "displayName": "Purple Claws",
-    "description": "Purple claws theme",
+    "displayName": "Saladin",
+    "description": "Saladin Theme",
     "version": "1.0.1",
     "publisher": "custapp",
     "icon": "icon.png",
@@ -20,7 +20,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Purple Claws",
+                "label": "Saladin",
                 "uiTheme": "vs-dark",
                 "path": "./themes/theme-app.json"
             }
