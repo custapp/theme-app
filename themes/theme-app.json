@@ -33,7 +33,7 @@
     "sideBar.background": "#373f44",
 		"scrollbar.shadow": "#191919"
 	},
-	"tokenColors": [
+      "tokenColors": [
     {
       "name": "Comment",
       "scope": [
