@@ -11,10 +11,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/custom/theme-app"  
+        "url": "https://github.com/custom/theme-appSaladin"  
     },
     "bugs": {
-        "url": "https://github.com/custapp/theme-app/issues"  
+        "url": "https://github.com/custapp/theme-appSaladin/issues"  
     },
     "categories": [
         "Themes"
@@ -24,7 +24,7 @@
             {
                 "label": "Saladin",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme-app.json"
+                "path": "./themes/theme-appSaladin.json"
             }
         ]
     }
