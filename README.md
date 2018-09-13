@@ -8,5 +8,5 @@ The topic has not yet been fully implemented.
 
 _Note *`Saladin Ver. 1.0.1a`
 
-This topic is created on the version [VSCode](https://code.visualstudio.com/) 1.27
+This topic is created on the version [Visual Studio Code](https://code.visualstudio.com/) 1.27
 ![screenshot](./screenshot.png)
