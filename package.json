@@ -1,5 +1,5 @@
 {
-    "name": "theme-appSaladin",
+    "name": "theme-saladin",
     "displayName": "Saladin",
     "description": "Saladin theme",
     "version": "1.0.1a",
@@ -11,10 +11,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/custom/theme-appSaladin"  
+        "url": "https://github.com/custom/theme-saladin"  
     },
     "bugs": {
-        "url": "https://github.com/custapp/theme-appSaladin/issues"  
+        "url": "https://github.com/custapp/theme-saladin/issues"  
     },
     "categories": [
         "Themes"
@@ -24,7 +24,7 @@
             {
                 "label": "Saladin",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme-appSaladin.json"
+                "path": "./themes/theme-saladin.json"
             }
         ]
     }
