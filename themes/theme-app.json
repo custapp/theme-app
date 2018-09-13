@@ -2,7 +2,6 @@
 	"name": "Saladin",
 	"type": "dark",
 	"author": "Boris",
-	"uuid":"67bd64fa-d0ac-4853-a5fc-2164cc49a0b8",
 	"colorSpaceName": "sRGB",
 	"colors": {
 		"activityBar.background": "#19181a",
