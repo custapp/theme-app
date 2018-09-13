@@ -6,5 +6,5 @@ The topic has not yet been fully implemented.
 
 `Saladin Ver. 1.0.1a`
 
-This topic is created on the version [VSCode]+1(https://code.visualstudio.com/) Version 1.27
+This topic is created on the version [VSCode](https://code.visualstudio.com/) Version 1.27
 ![screenshot](./screenshot.png)
