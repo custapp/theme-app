@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Saladin",
+                "label": "Ultima",
                 "uiTheme": "vs-dark",
                 "path": "./themes/theme-ultima.json"
             }
