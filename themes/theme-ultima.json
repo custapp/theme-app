@@ -34,7 +34,7 @@
       "editorWhitespace.foreground": "#2d2d30",
       "editorError.foreground": "#d15d64",
       "editorError.border": null,
-      "editorCursor.foreground": null,
+      "editorCursor.foreground": "#4c8ffc",
       "editorWidget.background": "#1a1e22",
       "editorHoverWidget.background": "#22272c",
       "editorHoverWidget.border": "#3c454a",
