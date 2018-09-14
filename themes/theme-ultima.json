@@ -1,8 +1,6 @@
 {
 	  "name": "Ultima",
 	  "type": "dark",
-	  "author": "Boris",
-	  "colorSpaceName": "sRGB",
 	  "colors": {
       "activityBarBadge.foreground": "#ffffff",
       "activityBar.dropBackground": null,
