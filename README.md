@@ -1,4 +1,4 @@
-### Saladin
+### Ultima
 While there is not a full version of the theme, there is no syntax. 
 
 > Dark [Visual Studio Code](https://code.visualstudio.com/), you can install a theme.
