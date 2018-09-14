@@ -1,20 +1,20 @@
 {
-    "name": "theme-saladin",
-    "displayName": "Saladin",
-    "description": "Saladin theme",
-    "version": "1.0.1a",
+    "name": "theme-ultima",
+    "displayName": "Ultima",
+    "description": "Ultima Theme VSCode",
+    "version": "1.0.1",
     "author": "Boris",
     "publisher": "custapp",
-    "icon": "logo.png",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.27.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/custom/theme-saladin"  
+        "url": "https://github.com/custom/theme-ultima"  
     },
     "bugs": {
-        "url": "https://github.com/custapp/theme-saladin/issues"  
+        "url": "https://github.com/custapp/theme-utima/issues"  
     },
     "categories": [
         "Themes"
@@ -24,7 +24,7 @@
             {
                 "label": "Saladin",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme-saladin.json"
+                "path": "./themes/theme-ultima.json"
             }
         ]
     }
