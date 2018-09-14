@@ -7,4 +7,4 @@ In his spare time, the subject is gradually moving forward.
 The topic has not yet been fully implemented.
 
 _Note *`Ver. 1.0.1`
-![screenshot](./screenshot.png)
+![screenshot](https://raw.githubusercontent.com/custapp/theme-ultima/master/screenshot.png)
