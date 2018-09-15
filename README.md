@@ -12,7 +12,7 @@ The topic has not yet been fully implemented.
 Set manually the resolution of the VSCode, packed in a .vsix file.
 Installation from vsix commands.
 
-You can also download from [GitHub](https://github.com/custapp/theme-ultima/releases) file .vsix extension 
+You can also download from [Releases](https://github.com/custapp/theme-ultima/releases) file .vsix extension 
 
 `code --install-extension theme-ultima-#.#.#.vsix`
 
