@@ -8,7 +8,8 @@ While there is not a full version of the theme, there is no syntax.
 In his spare time, the subject is gradually moving forward.
 The topic has not yet been fully implemented.
 
-### Install from a .vsix
+Install from a .vsix:
+
 Set manually the resolution of the VSCode, packed in a .vsix file.
 Installation from vsix commands.
 
@@ -16,7 +17,8 @@ You can also download from [GitHub](https://github.com/custapp/theme-ultima/rele
 
 `code --install-extension theme-ultima-#.#.#.vsix`
 
-### Apply Theme
+Apply Theme:
+
 Call Quick Open, hot keys.
 
 <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> `F1 or ⌘ + Shift + P`
