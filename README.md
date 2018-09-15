@@ -1,6 +1,10 @@
 ### Ultima 
 `Ver. 0.0.7`
 
+
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/custapp/theme-ultima)
+
+
 While there is not a full version of the theme, there is no syntax. 
 
 > Dark [Visual Studio Code](https://code.visualstudio.com/), you can install a theme.
