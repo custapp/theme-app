@@ -24,6 +24,6 @@ Call Quick Open, hot keys.
 <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> `F1 or Ctrl + Shift + P`
 
 In the pop-up window Quick enter the `Theme` select `Preferences: Color Theme` from the list of topics you want to apply.
-In the topic there are no icons, you should choose them and set them for example: `Material Icon Theme`
+In the topic there are no icons, you should choose them and set them for example: `Material Icon Theme`.
 
 ![screenshot](https://raw.githubusercontent.com/custapp/theme-ultima/master/screenshot.png)
