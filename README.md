@@ -2,7 +2,7 @@
 `Ver. 0.0.7`
 
 
-[![GitHub stars](https://img.shields.io/github/stars/custapp/theme-ultima.svg?style=social&label=Star%20on%20)](https://github.com/custapp/theme-ultima)
+[![GitHub stars](https://img.shields.io/github/stars/custapp/theme-ultima.svg?style=social&label=Stars)](https://github.com/custapp/theme-ultima)
 
 
 While there is not a full version of the theme, there is no syntax. 
