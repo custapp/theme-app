@@ -19,8 +19,8 @@ Installation from vsix commands.
 ### Apply Theme
 Call Quick Open, hot keys.
 
-![macOS](https://camo.githubusercontent.com/4fdf428d56688e882eb95654db0b838d280cce1f/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f66617669636f6e2e69636f) F1 or ⌘ + Shift + P
+<img src="https://developer.apple.com/favicon.ico" width=16 height=16/> F1 or ⌘ + Shift + P
 
-![Microsoft Windows](https://camo.githubusercontent.com/80a656ce7a08ca43fb6f04a393d8347831b2b74d/68747470733a2f2f7777772e6d6963726f736f66742e636f6d2f66617669636f6e2e69636f) F1 or Ctrl + Shift + P
+<img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> F1 or Ctrl + Shift + P
 
 ![screenshot](https://raw.githubusercontent.com/custapp/theme-ultima/master/screenshot.png)
