@@ -9,7 +9,7 @@ In his spare time, the subject is gradually moving forward.
 The topic has not yet been fully implemented.
 
 #### Install from a .vsix:
-You can also download from [Releases](https://github.com/custapp/theme-ultima/releases) file .vsix extension... 
+You can also download from [Releases](https://github.com/custapp/theme-ultima/releases) file `master` .vsix extension
 
 Set manually the resolution of the VSCode, packed in a .vsix file.
 Installation from vsix commands.
