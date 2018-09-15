@@ -80,6 +80,8 @@
       "settings.numberInputBackground": "#373f44",
       "settings.numberInputForeground": "#c0c0c0",
       "settings.numberInputBorder": "#24292e",
+      "statusBar.background": "#ffffff",
+      "statusBar.foreground": "000000",
       "statusBar.noFolderBackground": "#ffffff",
       "statusBar.noFolderForeground": "#000000",
       "statusBar.debuggingBackground": "#7d3eeb",
