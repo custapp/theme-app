@@ -1,7 +1,7 @@
 ### Ultima 
 `Ver.0.0.7`
 
-[![GitHub release](https://img.shields.io/github/release/custapp/theme-ultima.svg?style=flat)](https://github.com/custapp/theme-ultima/releases)
+[![GitHub release](https://img.shields.io/github/release/custapp/theme-ultima.svg?style=social)](https://github.com/custapp/theme-ultima/releases)
 [![GitHub stars](https://img.shields.io/github/stars/custapp/theme-ultima.svg?style=social&label=Stars)](https://github.com/custapp/theme-ultima)
 
 
