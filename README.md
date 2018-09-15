@@ -1,5 +1,5 @@
 ### Ultima 
-[![GitHub release](https://img.shields.io/github/release/custapp/theme-ultima.svg?style=social)](https://github.com/custapp/theme-ultima/releases)
+[![GitHub release](https://img.shields.io/github/release/custapp/theme-ultima.svg?style=flat-square)](https://github.com/custapp/theme-ultima/releases)
 [![GitHub stars](https://img.shields.io/github/stars/custapp/theme-ultima.svg?style=social&label=Star)](https://github.com/custapp/theme-ultima)
 
 While there is not a full version of the theme, there is no syntax. 
