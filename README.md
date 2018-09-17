@@ -20,7 +20,7 @@ Installation from vsix commands.
 #### Apply Theme:
 Call Quick Open, hot keys.
 
-<img src="https://developer.apple.com/favicon.ico" width=16 height=16/> `F1 or ⌘ + Shift + P`
+<img src="https://developer.apple.com/favicon.ico" width=16 height=16/> `⌘ + Shift + P`
 
 <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> `F1 or Ctrl + Shift + P`
 
